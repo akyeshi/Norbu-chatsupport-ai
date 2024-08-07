@@ -38,7 +38,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## References
 
-[NextJs Route Handlers for route handling streaming for AI generated response working with LLM](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
-[OpenAI docs on streaming chat completion](https://platform.openai.com/docs/api-reference/chat/create)
-[Material UI installation steps](https://mui.com/material-ui/getting-started/installation/)
-[Generate OpenAI API keys for projects](https://platform.openai.com/api-keys)
+- [NextJs Route Handlers for route handling streaming for AI generated response working with LLM](https://nextjs.org/docs/app/building-your-application/routing/route-handlers)
+- [OpenAI docs on streaming chat completion](https://platform.openai.com/docs/api-reference/chat/create)
+- [Material UI installation steps](https://mui.com/material-ui/getting-started/installation/)
+- [Generate OpenAI API keys for projects](https://platform.openai.com/api-keys)
